@@ -1,0 +1,16 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="editadd.png">editadd.png</file>
+<file alias="editcopy.png">editcopy.png</file>
+<file alias="editcut.png">editcut.png</file>
+<file alias="editdelete.png">editdelete.png</file>
+<file alias="editedt.png">editedit.png</file>
+<file alias="editpaste.png">editpaste.png</file>
+<file alias="filenew.png">filenew.png</file>
+<file alias="fileopen.png">fileopen.png</file>
+<file alias="filesave.png">filesave.png</file>
+<file alias="filesaveas.png">filesaveas.png</file>
+<file alias="filequit.png">filequit.png</file>
+<file alias="icon.png">icon.png</file>
+</qresource>
+</RCC>
