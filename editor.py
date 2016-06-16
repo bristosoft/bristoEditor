@@ -31,9 +31,6 @@ class MainWindow(QMainWindow):
         
         # Attributes
         self._tabbed = False
-        self.toolbars = False
-        self.menus = False
-        self.actions = False
 
         # Set up initial Multiple Document Interface
         self.mdi = QWorkspace()
