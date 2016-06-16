@@ -12,7 +12,6 @@
 #
 # June 12, 2016    Need to fix Window Menu methods at end 
 
-import os
 import platform
 import sys
 from PyQt4.QtCore import *
